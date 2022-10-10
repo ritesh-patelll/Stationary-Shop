@@ -1,1 +1,0 @@
-# Stationary-Shop
