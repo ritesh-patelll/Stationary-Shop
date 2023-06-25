@@ -54,7 +54,7 @@ git clone https://github.com/username/project-title.git
 
 2. Change directory to the project folder
 ```
-cd project-title
+cd Stationary-Shop-main
 ```
 
 3. Install required libraries
@@ -66,7 +66,7 @@ pip install mysql-connector-python
 To run the Stationary-Shop application, use the following command:
 
 ```
-python main.py
+python Program.py
 ```
 
 ## Screenshots
