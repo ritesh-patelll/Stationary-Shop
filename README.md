@@ -70,9 +70,12 @@ python main.py
 ```
 
 ## Screenshots
-
-<img src="/demo/1.png" alt="Image 1" width="400">
-<img src="/demo/2.png" alt="Image 2" width="400">
+<div style="display: flex; flex-direction: row; align-content: center; justify-content: space-evenly; align-items: center;">
+  <img src="/demo/1.png" alt="Image 1" width="400">
+  <img src="/demo/2.png" alt="Image 2" width="400">
+</div>
+<div style="display: flex; flex-direction: row; align-content: center; justify-content: space-evenly; align-items: center;">
 <img src="/demo/3.png" alt="Image 3" width="250">
 <img src="/demo/4.png" alt="Image 4" width="250">
 <img src="/demo/5.png" alt="Image 4" width="250">
+</div>
