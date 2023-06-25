@@ -71,5 +71,8 @@ python main.py
 
 Include some screenshots to showcase the project. Add their paths in the following format:
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![Screenshot 1](/demo/1.png)
+![Screenshot 2](/demo/2.png)
+![Screenshot 2](/demo/3.png)
+![Screenshot 2](/demo/4.png)
+![Screenshot 2](/demo/5.png)
