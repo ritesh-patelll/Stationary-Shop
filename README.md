@@ -70,11 +70,11 @@ python main.py
 ```
 
 ## Screenshots
-<div style="display: flex; flex-direction: row; align-content: center; justify-content: space-evenly; align-items: center;">
-  <img src="/demo/1.png" alt="Image 1" width="50%">
-  <img src="/demo/2.png" alt="Image 2" width="50%">
+<div style="display: flex; flex-direction: row; align-content: center; justify-content: space-evenly; align-items: center;position: relative;">
+  <img src="/demo/1.png" alt="Image 1" width="45%">
+  <img src="/demo/2.png" alt="Image 2" width="45%">
 </div>
-<div style="display: flex; flex-direction: row; align-content: center; justify-content: space-evenly; align-items: center;">
+<div style="display: flex; flex-direction: row; align-content: center; justify-content: space-evenly; align-items: center;position: relative;">
 <img src="/demo/3.png" alt="Image 3" width="30%">
 <img src="/demo/4.png" alt="Image 4" width="30%">
 <img src="/demo/5.png" alt="Image 4" width="30%">
