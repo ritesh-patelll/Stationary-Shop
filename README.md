@@ -57,7 +57,7 @@ cd project-title
 
 3. Install required libraries
 ```
-pip install -r requirements.txt
+pip install mysql-connector-python
 ```
 ## Usage
 
