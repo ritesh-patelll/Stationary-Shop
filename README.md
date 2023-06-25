@@ -2,7 +2,9 @@
 
 Stationary-Shop is a Tkinter based GUI application designed to manage a stationary shop. The main objective of this project is to facilitate the buying and selling of stationary products by providing an interface to browse product details and manage purchases.
 
-![Project Demo](/demo/stationary.gif)
+<p align="center">
+  <img src="/demo/stationary.gif" alt="GIF">
+</p>
 
 ## Table of Contents
 
@@ -70,6 +72,7 @@ python main.py
 ## Screenshots
 
 Include some screenshots to showcase the project. Add their paths in the following format:
+
 
 ![Screenshot 1](/demo/1.png)
 ![Screenshot 2](/demo/2.png)
