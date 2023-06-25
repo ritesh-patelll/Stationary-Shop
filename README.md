@@ -73,9 +73,24 @@ python main.py
 
 Include some screenshots to showcase the project. Add their paths in the following format:
 
-
-![Screenshot 1](/demo/1.png)
-![Screenshot 2](/demo/2.png)
-![Screenshot 2](/demo/3.png)
-![Screenshot 2](/demo/4.png)
-![Screenshot 2](/demo/5.png)
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="/demo/1.png" alt="Image 1" width="200" height="200">
+    </td>
+    <td>
+      <img src="/demo/2.png" alt="Image 2" width="200" height="200">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/demo/3.png" alt="Image 3" width="200" height="200">
+    </td>
+    <td>
+      <img src="/demo/4.png" alt="Image 4" width="200" height="200">
+    </td>
+    <td>
+      <img src="/demo/5.png" alt="Image 4" width="200" height="200">
+    </td>
+  </tr>
+</table>
